@@ -89,6 +89,10 @@
 		overflow: hidden
 	}
 	.banner-area{
+		border-radius:0px 0px 200px 00px;
+	}
+	.banner{
+	background:rgba(94,185,137,.8); 
 	border-radius:0px 0px 200px 00px;
 	}
 	.menu{

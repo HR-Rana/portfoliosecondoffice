@@ -88,7 +88,9 @@
 		float: none;
 		overflow: hidden
 	}
-	
+	.banner-area{
+	border-radius:0px 0px 200px 00px;
+	}
 	.menu{
 		width:100%;
 	}
